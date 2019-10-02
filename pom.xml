@@ -129,16 +129,5 @@
             <url>http://jcenter.bintray.com</url>
         </pluginRepository>
     </pluginRepositories>
-  <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-30-5-releases</name>
-        <url>http://13.58.72.237:8081/artifactory/jenkins-release</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-30-5-snapshots</name>
-        <url>http://13.58.72.237:8081/artifactory/jenkins-release</url>
-    </snapshotRepository>
-</distributionManagement>
+  
 </project>
